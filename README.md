@@ -59,6 +59,6 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 For queries or collaboration, contact:
-📧 Email: punwatkarsthavir@gmail.com
-🔗 LinkedIn: [Sthavir Punwatkar](www.linkedin.com/in/sthavir-punwatkar-41ab17245)
+📧 Email: gayatri160802@gmail.com
+🔗 LinkedIn: [Sthavir Punwatkar]((https://www.linkedin.com/in/gayatri-kalaskar-723b332a5))
 
